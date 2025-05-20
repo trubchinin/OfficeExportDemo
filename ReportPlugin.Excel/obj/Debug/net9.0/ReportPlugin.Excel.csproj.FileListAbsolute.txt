@@ -8,6 +8,7 @@
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPlugin.Excel.AssemblyInfoInputs.cache
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPlugin.Excel.AssemblyInfo.cs
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPlugin.Excel.csproj.CoreCompileInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPlugin.Excel.sourcelink.json
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPl.42824386.Up2Date
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/ReportPlugin.Excel.dll
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/obj/Debug/net9.0/refint/ReportPlugin.Excel.dll

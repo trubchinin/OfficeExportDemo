@@ -8,6 +8,7 @@
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.AssemblyInfoInputs.cache
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.AssemblyInfo.cs
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.csproj.CoreCompileInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.sourcelink.json
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPl.BADB0F7F.Up2Date
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.dll
 /Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/refint/ReportPlugin.Word.dll
