@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReportPlugin.Abstractions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f1b98f3dbed76388ad4b07045289afa49aeb8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aab94113cb621d9c31e18acb0040905dd9a95cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReportPlugin.Abstractions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReportPlugin.Abstractions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
