@@ -1,0 +1,11 @@
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/bin/Debug/net9.0/ReportPlugin.Abstractions.deps.json
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/bin/Debug/net9.0/ReportPlugin.Abstractions.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/bin/Debug/net9.0/ReportPlugin.Abstractions.pdb
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.AssemblyInfoInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.AssemblyInfo.cs
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.csproj.CoreCompileInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/refint/ReportPlugin.Abstractions.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ReportPlugin.Abstractions.pdb
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/Debug/net9.0/ref/ReportPlugin.Abstractions.dll

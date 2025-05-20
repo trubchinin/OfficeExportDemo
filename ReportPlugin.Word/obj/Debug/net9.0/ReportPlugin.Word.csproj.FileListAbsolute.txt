@@ -1,0 +1,15 @@
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/bin/Debug/net9.0/ReportPlugin.Word.deps.json
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/bin/Debug/net9.0/ReportPlugin.Word.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/bin/Debug/net9.0/ReportPlugin.Word.pdb
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/bin/Debug/net9.0/ReportPlugin.Abstractions.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/bin/Debug/net9.0/ReportPlugin.Abstractions.pdb
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.csproj.AssemblyReference.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.AssemblyInfoInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.AssemblyInfo.cs
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.csproj.CoreCompileInputs.cache
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPl.BADB0F7F.Up2Date
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/refint/ReportPlugin.Word.dll
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ReportPlugin.Word.pdb
+/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/Debug/net9.0/ref/ReportPlugin.Word.dll

@@ -1,0 +1,5 @@
+/Users/markzoopark/OfficeExportDemo/obj/Debug/net9.0/OfficeExportDemo.csproj.AssemblyReference.cache
+/Users/markzoopark/OfficeExportDemo/obj/Debug/net9.0/OfficeExportDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markzoopark/OfficeExportDemo/obj/Debug/net9.0/OfficeExportDemo.AssemblyInfoInputs.cache
+/Users/markzoopark/OfficeExportDemo/obj/Debug/net9.0/OfficeExportDemo.AssemblyInfo.cs
+/Users/markzoopark/OfficeExportDemo/obj/Debug/net9.0/OfficeExportDemo.csproj.CoreCompileInputs.cache
