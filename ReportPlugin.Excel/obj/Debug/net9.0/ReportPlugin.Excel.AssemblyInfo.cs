@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReportPlugin.Excel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aab94113cb621d9c31e18acb0040905dd9a95cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69df47aa6fa748922cc68d766e47fb27abdb17b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReportPlugin.Excel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReportPlugin.Excel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

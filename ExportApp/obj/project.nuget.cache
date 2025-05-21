@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGNU8wjfT98=",
+  "dgSpecHash": "v/q5UlqixLg=",
   "success": true,
-  "projectFilePath": "/Users/markzoopark/OfficeExportDemo/ExportApp/ExportApp.csproj",
+  "projectFilePath": "/Users/markzoopark/Documents/OfficeExportDemo/ExportApp/ExportApp.csproj",
   "expectedPackageFiles": [
     "/Users/markzoopark/.nuget/packages/closedxml/0.105.0/closedxml.0.105.0.nupkg.sha512",
     "/Users/markzoopark/.nuget/packages/closedxml.parser/2.0.0/closedxml.parser.2.0.0.nupkg.sha512",

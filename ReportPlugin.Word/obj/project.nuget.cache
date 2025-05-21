@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNAqM/2zUeg=",
+  "dgSpecHash": "8zKBInxGuL8=",
   "success": true,
-  "projectFilePath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
+  "projectFilePath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
   "expectedPackageFiles": [
     "/Users/markzoopark/.nuget/packages/documentformat.openxml/3.3.0/documentformat.openxml.3.3.0.nupkg.sha512",
     "/Users/markzoopark/.nuget/packages/documentformat.openxml.framework/3.3.0/documentformat.openxml.framework.3.3.0.nupkg.sha512",

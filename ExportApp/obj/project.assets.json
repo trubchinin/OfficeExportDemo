@@ -357,11 +357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/markzoopark/OfficeExportDemo/ExportApp/ExportApp.csproj",
+      "projectUniqueName": "/Users/markzoopark/Documents/OfficeExportDemo/ExportApp/ExportApp.csproj",
       "projectName": "ExportApp",
-      "projectPath": "/Users/markzoopark/OfficeExportDemo/ExportApp/ExportApp.csproj",
+      "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ExportApp/ExportApp.csproj",
       "packagesPath": "/Users/markzoopark/.nuget/packages/",
-      "outputPath": "/Users/markzoopark/OfficeExportDemo/ExportApp/obj/",
+      "outputPath": "/Users/markzoopark/Documents/OfficeExportDemo/ExportApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/markzoopark/.nuget/NuGet/NuGet.Config"
@@ -376,14 +376,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
-              "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj"
+            "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
+              "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj"
             },
-            "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/ReportPlugin.Excel.csproj": {
-              "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Excel/ReportPlugin.Excel.csproj"
+            "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Excel/ReportPlugin.Excel.csproj": {
+              "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Excel/ReportPlugin.Excel.csproj"
             },
-            "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {
-              "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj"
+            "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {
+              "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj"
             }
           }
         }

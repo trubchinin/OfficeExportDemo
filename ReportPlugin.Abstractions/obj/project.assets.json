@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
+      "projectUniqueName": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
       "projectName": "ReportPlugin.Abstractions",
-      "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
+      "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
       "packagesPath": "/Users/markzoopark/.nuget/packages/",
-      "outputPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/",
+      "outputPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/markzoopark/.nuget/NuGet/NuGet.Config"

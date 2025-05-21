@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {}
+    "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {}
   },
   "projects": {
-    "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
+    "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
+        "projectUniqueName": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
         "projectName": "ReportPlugin.Abstractions",
-        "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
+        "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj",
         "packagesPath": "/Users/markzoopark/.nuget/packages/",
-        "outputPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/obj/",
+        "outputPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/markzoopark/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {
+    "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
+        "projectUniqueName": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
         "projectName": "ReportPlugin.Word",
-        "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
+        "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/ReportPlugin.Word.csproj",
         "packagesPath": "/Users/markzoopark/.nuget/packages/",
-        "outputPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Word/obj/",
+        "outputPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Word/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/markzoopark/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
-                "projectPath": "/Users/markzoopark/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj"
+              "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj": {
+                "projectPath": "/Users/markzoopark/Documents/OfficeExportDemo/ReportPlugin.Abstractions/ReportPlugin.Abstractions.csproj"
               }
             }
           }
