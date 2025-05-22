@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReportPlugin.Word")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69df47aa6fa748922cc68d766e47fb27abdb17b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e60dce5c7b1afdf6bfa41de24f22f511bdd016e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReportPlugin.Word")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReportPlugin.Word")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
